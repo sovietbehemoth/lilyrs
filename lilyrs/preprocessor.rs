@@ -63,32 +63,3 @@ pub fn flag_check() -> String {
     of the loop end in breakpoints.*/
     String::from("")
   }
-
-/*
-I just want to play the sport I love, I don't really want to write a random rust interpreter right now. It's not
-fair that everyone else gets to play and I don't. I know my grades were bad last year but I have been working very
-hard to make up for it this year, I don't want to be punished for something that i've been working hard to make up
-for. Why must I be excluded for struggling in a year that is so abnormal with a severe learning condition that 
-impairs my ability to focus? Why must every time I finally start having a period of content and happiness must it
-get interrupted with something impairing that? I am a human, I have wants and desires, I don't want to have this
-happen, it seems like this is not fair. My ADHD is not something that is easy to manage on the daily. I'm sorry that I neglected my studies and constantly
-lost focus. I'm sorry that I didn't keep up with my assignments accordingly. I'm sorry that I didn't meet the 
-expectations, I just had a very hard time adjusting to such an abnormal learning environment. Please let me play my
-sport, I have been working so hard for so long. I've been training every day, I just want to run. Please let me run,
-I know that I have made mistakes but I make them not in mal intent. I am not a perfect person, I am far from it. I've 
-made many mistakes in the time that i've been alive. I just want to have some fun for a while. I'm sorry for the 
-mistakes that i've made, I take full responsibility for all troubles and conflict that I have caused. I just want to
-have fun and have a break from having to deal with being left out and being an outsider for once. Cross country was 
-my sense of inclusion, my chance at belonging to something. There has not been very many times in 
-my life where i've truly felt like I belonged. This is one of the few times. I feel like I belong to this group and
-that I am one of them. I feel not like an intruder or outsider, but like a teammate and friend. Being excluded from 
-the team may seem like a minor inconvenience, but it really is something that impacts me greatly.
-I don't have an easy time making friends and I was just getting established in that group of people, not to mention
-that I worked for so long to get into the conditioning that I am in. 
-
-Please, please don't take this away from me. Please, I beg you. I just want to belong, I just want to be a part of 
-something, I want to have something to do other than school. Please let me have my sports, it's the only group in 
-which I truly belong.
-
-You only appreciate something after you have it taken from you.
-*/
